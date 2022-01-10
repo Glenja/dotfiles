@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jackglen0@gmail.com
+	name = jack glen
